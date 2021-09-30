@@ -1,6 +1,3 @@
-#Name    : Jayesh Dattatray Kulkarni
-#Batch   : PGA-15
-#Project : SVM
 
 import pandas as pd
 import numpy as np
